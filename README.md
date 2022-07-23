@@ -5,6 +5,15 @@
 <img src=https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif width="600" height="250"/>
 </p>
 
+```python
+class AlexisLayVu: 
+  pronouns = "she/her"
+  hobbies = ["gaming", "programming"]
+  university = "California State University, Fullerton"
+```
+
+
+
 <p align="left">
 
 <h3> I've worked with... <h3>
@@ -16,14 +25,15 @@ style="vertical-align:top; margin:4px">
 </p>
 
 <p align="left">
-<img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=alexislayvu&show_icons=true&theme=radical&include_all_commits=true&hide=stars" style="border-radius:40px;">
+<img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=alexislayvu&show_icons=true&theme=material-palenight&include_all_commits=true&hide=stars" style="border-radius:40px;">
+<img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexislayvu&theme=material-palenight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
 </p>
 
 <!--
 <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexislayvu&theme=tokyonight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
 -->
 
-💼 Check out some of my projects [here](https://github.com/alexislayvu?tab=repositories)
+💼 Check out <em>some</em> of my projects [here](https://github.com/alexislayvu?tab=repositories)
 
 📫 You can reach me at alexislayvu@gmail.com
 
