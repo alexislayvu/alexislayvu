@@ -16,7 +16,7 @@ style="vertical-align:top; margin:4px">
 </p>
 
 <p align="left">
-<img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=alexislayvu&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="border-radius:40px;">
+<img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=alexislayvu&show_icons=true&theme=radical&include_all_commits=true&hide=stars" style="border-radius:40px;">
 </p>
 
 <!--
