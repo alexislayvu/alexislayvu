@@ -1,5 +1,6 @@
 <h1 align="center"> Hi, I'm Alexis Lay Vu! 👋 </h1>
-<h3 align="center"> Student and Aspiring Software Engineer 👩‍💻 </h3>
+<h3 align="center"> Aspiring Software Engineer 👩‍💻 </h3>
+
 
 <p align="center">
 <img src=https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif width="600" height="250"/>
@@ -10,12 +11,11 @@ class AlexisLayVu:
   pronouns = "she/her"
   hobbies = ["gaming", "programming"]
   university = "California State University, Fullerton"
+  familiar_languages = ["C++", "Python", "SQL", "PHP"]
 ```
 
-
-
 <p align="left">
-
+<!--
 <h3> I've worked with... <h3>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
@@ -23,10 +23,10 @@ class AlexisLayVu:
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="html"
 style="vertical-align:top; margin:4px">
 </p>
+-->
 
-<p align="left">
+<p align="center">
 <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=alexislayvu&show_icons=true&theme=material-palenight&include_all_commits=true&hide=stars" style="border-radius:40px;">
-<img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexislayvu&theme=material-palenight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
 </p>
 
 <!--
