@@ -33,9 +33,9 @@ style="vertical-align:top; margin:4px">
 <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexislayvu&theme=tokyonight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
 -->
 
-💼 Check out <em>some</em> of my projects [here](https://github.com/alexislayvu?tab=repositories)
+<b> 💼 Check out <em>some</em> of my projects [here](https://github.com/alexislayvu?tab=repositories) </b>
 
-📫 You can reach me at alexislayvu@gmail.com
+<b> 📫 You can reach me at alexislayvu@gmail.com </b>
 
 <!--
 **alexislayvu/alexislayvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
