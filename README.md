@@ -11,8 +11,8 @@ class AlexisLayVu:
   hobbies = ["gaming", "programming"]
   university = "California State University, Fullerton"
   languages = {
-                "proficient": ["C++", "Python"],
-                "acquainted": ["SQL", "PHP"]
+                proficient: ["C++", "Python"],
+                acquainted: ["SQL", "PHP"]
               }
 ```
 
