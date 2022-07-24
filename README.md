@@ -1,7 +1,6 @@
 <h1 align="center"> Hi, I'm Alexis Lay Vu! 👋 </h1>
 <h3 align="center"> Aspiring Software Engineer 👩‍💻 </h3>
 
-
 <p align="center">
 <img src=https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif width="600" height="250"/>
 </p>
@@ -11,7 +10,10 @@ class AlexisLayVu:
   pronouns = "she/her"
   hobbies = ["gaming", "programming"]
   university = "California State University, Fullerton"
-  familiar_languages = ["C++", "Python", "SQL", "PHP"]
+  languages = {
+                "proficient": ["C++", "Python"],
+                "acquainted": ["SQL", "PHP"]
+              }
 ```
 
 <p align="left">
@@ -26,10 +28,10 @@ style="vertical-align:top; margin:4px">
 -->
 
 <p align="center">
-<img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=alexislayvu&show_icons=true&theme=material-palenight&include_all_commits=true&hide=stars" style="border-radius:40px;">
+<img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=alexislayvu&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=material-palenight" style="border-radius:40px;">
 </p>
 
-<!--
+<!-- GitHub Most Used Languages
 <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexislayvu&theme=tokyonight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
 -->
 
