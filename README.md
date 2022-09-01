@@ -1,5 +1,7 @@
 <h1 align="center"> Hi, I'm Alexis Lay Vu!<img src="https://i.pinimg.com/originals/f2/f0/e0/f2f0e067ce9b8de1cdd98c9ee9605b55.png" width="90px" height="60px" alt="capybara"> </h1>
+<!--
 <h3 align="center"> Aspiring Software Engineer 👩‍💻 </h3>
+-->
 
 <p align="center">
 <img src=https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif width="600" height="250"/>
