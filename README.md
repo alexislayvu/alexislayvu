@@ -13,10 +13,7 @@ class AlexisLayVu:
   pronouns = "she/her"
   hobbies = ["gaming", "programming"]
   university = "California State University, Fullerton"
-  languages = {
-                proficient: ["C++", "Python"],
-                acquainted: ["SQL", "PHP"]
-              }
+  languages = ["Python", "C/C++", "SQL", "PHP", "HTML"]
 ```
 
 <p align="left">
