@@ -29,11 +29,9 @@ style="vertical-align:top; margin:4px">
 
 <p align="center">
 <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=alexislayvu&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=material-palenight" style="border-radius:40px;">
+  
+<!-- <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexislayvu&theme=material-palenight&layout=compact&exclude_repo=settings" style="border-radius:40px;"> -->
 </p>
-
-<!-- GitHub Most Used Languages
-<img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexislayvu&theme=tokyonight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
--->
 
 <b> 💼 Check out some of my projects [here](https://github.com/alexislayvu?tab=repositories) </b>
 
