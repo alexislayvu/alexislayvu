@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Alexis Lay Vu!</h1>
+<h1 align="center"> Hi, I'm Alexis! </h1>
 <!--
 <img src="https://i.pinimg.com/originals/f2/f0/e0/f2f0e067ce9b8de1cdd98c9ee9605b55.png" width="90px" height="60px" alt="capybara">
 <h3 align="center"> Aspiring Software Engineer 👩‍💻 </h3>
