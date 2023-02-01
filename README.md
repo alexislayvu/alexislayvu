@@ -11,7 +11,6 @@
 ```python
 class AlexisLayVu: 
   pronouns = "she/her"
-  hobbies = ["gaming", "programming"]
   university = "California State University, Fullerton"
   languages = ["Python", "C/C++", "SQL", "PHP", "HTML"]
 ```
