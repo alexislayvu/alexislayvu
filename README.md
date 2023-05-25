@@ -12,7 +12,7 @@
 class AlexisLayVu: 
   pronouns = "she/her"
   university = "California State University, Fullerton"
-  languages = ["Python", "C/C++", "SQL", "PHP", "HTML"]
+  languages = ["Python", "C/C++", "Kotlin", "SQL", "PHP", "HTML"]
 ```
 
 <p align="left">
