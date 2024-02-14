@@ -1,41 +1,32 @@
-<h1 align="center"> Hi, I'm Alexis! </h1>
-<!--
-<img src="https://i.pinimg.com/originals/f2/f0/e0/f2f0e067ce9b8de1cdd98c9ee9605b55.png" width="90px" height="60px" alt="capybara">
-<h3 align="center"> Aspiring Software Engineer 👩‍💻 </h3>
--->
+<h1 align="center"> Hi, I'm Alexis! 🦦 </h1>
 
 <p align="center">
-<img src=https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif width="600" height="250"/>
+  <img width="600" height="300" src=https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif>
 </p>
 
 ```python
-class AlexisLayVu: 
-  pronouns = "she/her"
-  university = "California State University, Fullerton"
-  languages = ["Python", "C/C++", "Kotlin", "SQL", "PHP", "HTML"]
+class AlexisLayVu:
+  def __init__(self):
+    self.pronouns = "she/her"
+    self.university = "California State University, Fullerton"
+    self.languages = ["Python", "C/C++", "Kotlin", "HTML", "SQL", "PHP"]
 ```
 
-<p align="left">
-<!--
-<h3> I've worked with... <h3>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="html"
-style="vertical-align:top; margin:4px">
+<!--GitHub Stats-->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=alexislayvu&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=jolly">
+  </a>
 </p>
--->
 
 <p align="center">
-<img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=alexislayvu&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=material-palenight" style="border-radius:40px;">
-  
-<!-- <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexislayvu&theme=material-palenight&layout=compact&exclude_repo=settings" style="border-radius:40px;"> -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexislayvu&layout=compact&exclude_repo=dotfiles&theme=jolly&card_width=320">
+  </a>
 </p>
 
-<b> 💼 Check out some of my projects [here](https://github.com/alexislayvu?tab=repositories) </b>
-
-<b> 📫 You can reach me at alexislayvu@gmail.com </b>
-
+### 🪐 Check out <em>some</em> of my projects [here](https://github.com/alexislayvu?tab=repositories)
+### 💌 You can reach me at alexislayvu@gmail.com
 <!--
 **alexislayvu/alexislayvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,4 +41,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns:
 - ⚡ Fun fact: ...
 -->
-
