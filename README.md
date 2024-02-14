@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Alexis! 🦦 </h1>
 
 <p align="center">
-  <img width="600" height="300" src=https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif>
+  <img width="600" height="250" src=https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif>
 </p>
 
 ```python
