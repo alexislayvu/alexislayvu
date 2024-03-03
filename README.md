@@ -9,7 +9,7 @@ class AlexisLayVu:
   def __init__(self):
     self.pronouns = "she/her"
     self.university = "California State University, Fullerton"
-    self.languages = ["Python", "C/C++", "Kotlin", "HTML", "SQL", "PHP"]
+    self.languages = ["Python", "C/C++", "JavaScript", "HTML/CSS", "Kotlin", "SQL", "PHP"]
 ```
 
 <!--GitHub Stats-->
